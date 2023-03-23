@@ -10,7 +10,7 @@ Ramana Vummenthala</h1>
 
 - 📫 Reach me **vsairamanareddy@gmail.com**
 
-- Ask me about Angular, React, Vue, Node and Java
+- 💬 Ask me about Angular, React, Vue, Node and Java
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
