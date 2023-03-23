@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="" target="blank">
-Ramana Vummenthala</a></h1>
+<h1 align="center">Hi 👋, 
+Ramana Vummenthala</h1>
 
 
 <a target="_blank" align="center">
